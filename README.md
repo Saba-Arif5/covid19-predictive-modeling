@@ -18,6 +18,7 @@ The objective is to demonstrate practical predictive modeling skills on a real-w
 ## Project Structure
 
 covid-19-predictive-modeling/
+```
 │
 ├── datasets/
 │   ├── covid_19_clean_complete.csv
@@ -29,6 +30,7 @@ covid-19-predictive-modeling/
 │
 ├── README.md
 └── .gitignore
+```
 
 ---
 
