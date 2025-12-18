@@ -10,7 +10,7 @@ The objective is to demonstrate practical predictive modeling skills on a real-w
 
 ## Dataset
 - **Source:** Public COVID-19 datasets
-- **Files:** `raw_covid_data.csv`,
+- **Files:** `covid_19_clean_complete.csv`,
 - **Description:** Raw and preprocessed datasets used for feature engineering, modeling, and evaluation
 
 ---
